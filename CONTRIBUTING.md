@@ -1,4 +1,4 @@
-<table>
+﻿<table>
     <tr>
         <!-- Do not translate this table -->
         <td> Read these guidelines in </td>
@@ -139,3 +139,4 @@ If these issues lack clarity on what needs to be done, feel free to ask question
 **I found a typo, should I report an issue before I can make a pull request?**
 
 For typos and other wording changes, you can directly open pull requests without first creating an issue. Issues are more for discussing larger problems associated with code or structural aspects of the curriculum.
+fhiey98rfuodow
